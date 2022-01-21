@@ -1,0 +1,11 @@
+body {background-image: url("https://www.shc.ac.th/img/BG_index.jpg"); font-family: sans-serif; text-align: center;}
+h1, a {text-align: center;color: darkblue;} 
+p {color: rgb(13, 8, 46);}
+u {font-weight: 1000; line-height: 40px; color: rgb(153, 48, 29);}
+.flex-rectangle {background-color: #b10606; width: 800px; height: 195px; 
+    margin-left:auto;margin-right:auto; color: whitesmoke;
+    font-size: 18px; text-align: center;}
+.left {text-align: left; margin-left: 30px; }
+.right {text-align: right; margin-right: 30px;}
+img {border-radius: 600px; border: 5px dotted rgb(153, 48, 29);}
+b {text-align: center;}
